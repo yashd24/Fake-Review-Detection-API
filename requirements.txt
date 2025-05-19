@@ -1,7 +1,8 @@
 Flask
 flask-cors
 joblib
-sentence-transformers
 torch
-numpy
-scikit-learn==1.2.2
+numpy==1.24.4
+scikit-learn==1.3.2
+transformers==4.37.2
+sentence-transformers==2.2.2
