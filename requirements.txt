@@ -2,6 +2,6 @@ Flask
 flask-cors
 joblib
 sentence-transformers
-scikit-learn
 torch
 numpy
+scikit-learn==1.2.2
